@@ -1,0 +1,10 @@
+E:\documents\Documents\Visual Studio 2010\Projects\nonRevAssistant\nonRevAssistant\bin\Debug\nonRevAssistant.exe.config
+E:\documents\Documents\Visual Studio 2010\Projects\nonRevAssistant\nonRevAssistant\bin\Debug\nonRevAssistant.exe
+E:\documents\Documents\Visual Studio 2010\Projects\nonRevAssistant\nonRevAssistant\bin\Debug\nonRevAssistant.pdb
+E:\documents\Documents\Visual Studio 2010\Projects\nonRevAssistant\nonRevAssistant\bin\Debug\zoyobar.shared.panzer.IEBrowser.dll
+E:\documents\Documents\Visual Studio 2010\Projects\nonRevAssistant\nonRevAssistant\bin\Debug\zoyobar.shared.panzer.IEBrowser.xml
+E:\documents\Documents\Visual Studio 2010\Projects\nonRevAssistant\nonRevAssistant\obj\x86\Debug\nonRevAssistant.Form1.resources
+E:\documents\Documents\Visual Studio 2010\Projects\nonRevAssistant\nonRevAssistant\obj\x86\Debug\nonRevAssistant.Properties.Resources.resources
+E:\documents\Documents\Visual Studio 2010\Projects\nonRevAssistant\nonRevAssistant\obj\x86\Debug\nonRevAssistant.csproj.GenerateResource.Cache
+E:\documents\Documents\Visual Studio 2010\Projects\nonRevAssistant\nonRevAssistant\obj\x86\Debug\nonRevAssistant.exe
+E:\documents\Documents\Visual Studio 2010\Projects\nonRevAssistant\nonRevAssistant\obj\x86\Debug\nonRevAssistant.pdb
